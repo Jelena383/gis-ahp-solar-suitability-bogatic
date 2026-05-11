@@ -174,12 +174,7 @@ All criteria layers were:
 
 The final suitability model was calculated using the following equation:
 
-Suitability =
-
-(GTI × 0.5671) +  
-(Slope × 0.2651) +  
-(CLC × 0.1148) +  
-(Roads × 0.0531)
+Suitability =(GTI × 0.5671) + (Slope × 0.2651) + (CLC × 0.1148) +  (Roads × 0.0531)
 
 The resulting raster identified areas ranging from highly suitable to unsuitable for solar farm development.
 
