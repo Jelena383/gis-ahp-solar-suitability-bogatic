@@ -203,7 +203,6 @@ The results also confirmed the dominant influence of solar irradiation and terra
 ## GIS and Spatial Analysis
 
 - QGIS
-- ArcGIS Pro
 - Raster analysis
 - Weighted overlay analysis
 - Terrain analysis
